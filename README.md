@@ -16,7 +16,12 @@ This is a solution to the [Art gallery website challenge on Frontend Mentor](htt
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./img/Screenshot%20Main.png)
+![](./img/Screenshot%20Main%20Tablet.png)
+![](./img/Screenshot%20Main%20Mobile.png)
+![](./img/Screenshot%20Location.png)
+![](./img/Screenshot%20Location%20Tablet.png)
+![](./img/Screenshot%20Location%20Mobile.png)
 
 ### Links
 
